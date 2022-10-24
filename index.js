@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const log = console.log
 const program = require('commander')
 const chalk = require("chalk");
